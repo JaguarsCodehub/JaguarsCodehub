@@ -1,4 +1,4 @@
-<image src="https://miro.medium.com/max/1192/0*zKIhT1AUi7sP0Uuu.jpg" height="400" width="100%"/>
+
 <h1 align="center">Hi 👋, I'm Jyotindra Kallappa Tavanoji</h1>
 <h3 align="center">A fullstack developer + an Open Source enthusiast</h3>
 
