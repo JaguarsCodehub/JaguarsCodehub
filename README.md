@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jyotindra Kallappa Tavanoji</h1>
 <h3 align="center">A fullstack developer + an Open Source enthusiast</h3>
 
-<p align="left"> <a href="https://twitter.com/jyotindrakt" target="blank"><img src="https://img.shields.io/twitter/follow/jyotindrakt?logo=twitter&style=for-the-badge" alt="jyotindrakt" /></a> </p>
+
 
 - 🔭 I’m currently working on [Open Source](https://github.com/JaguarsCodehub/minikube)
 
