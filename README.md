@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Jyotindra Kallappa Tavanoji</h1>
-<h3 align="center">A fullstack developer + an Open Source enthusiast</h3>
+
 
 
 
