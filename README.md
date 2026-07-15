@@ -1,27 +1,3 @@
-<div align="center">
-
-<h2>Jyotindra Kallappa Tavanoji</h2>
-<sub>Tech Lead — DevOps / AI Systems Engineer &nbsp;·&nbsp; Mumbai, India</sub>
-<br/>
-<sub>Kubernetes · Kafka · ArgoCD · HA Postgres · LLM Systems · AI Agents</sub>
-<br/><br/>
-<a href="https://github.com/jaguarscodehub">
-  <img src="https://img.shields.io/badge/GITHUB-161b22?style=flat-square&logo=github&logoColor=c9d1d9" alt="GitHub" />
-</a>
-<a href="mailto:jyotindrakt21@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-161b22?style=flat-square&logo=gmail&logoColor=c9d1d9" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN-HANDLE">
-  <img src="https://img.shields.io/badge/LINKEDIN-161b22?style=flat-square&logo=linkedin&logoColor=c9d1d9" alt="LinkedIn" />
-</a>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=jaguarscodehub&label=PROFILE+VIEWS&color=161b22&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/jaguarscodehub?label=FOLLOWERS&style=flat-square&color=161b22&labelColor=0D1117" alt="followers" />
-
-</div>
-
----
-
 ## `$ whoami`
 
 ```yaml
