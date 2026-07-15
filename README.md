@@ -1,8 +1,109 @@
+<div align="center">
 
+<h2>Jyotindra Kallappa Tavanoji</h2>
+<sub>Tech Lead — DevOps / AI Systems Engineer &nbsp;·&nbsp; Mumbai, India</sub>
+<br/>
+<sub>Kubernetes · Kafka · ArgoCD · HA Postgres · LLM Systems · AI Agents</sub>
+<br/><br/>
+<a href="https://github.com/jaguarscodehub">
+  <img src="https://img.shields.io/badge/GITHUB-161b22?style=flat-square&logo=github&logoColor=c9d1d9" alt="GitHub" />
+</a>
+<a href="mailto:jyotindrakt21@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-161b22?style=flat-square&logo=gmail&logoColor=c9d1d9" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN-HANDLE">
+  <img src="https://img.shields.io/badge/LINKEDIN-161b22?style=flat-square&logo=linkedin&logoColor=c9d1d9" alt="LinkedIn" />
+</a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=jaguarscodehub&label=PROFILE+VIEWS&color=161b22&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/jaguarscodehub?label=FOLLOWERS&style=flat-square&color=161b22&labelColor=0D1117" alt="followers" />
 
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
+## `$ whoami`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaguarscodehub&" alt="jaguarscodehub" /></p>
+```yaml
+name: Jyotindra Kallappa Tavanoji
+role: Tech Lead - DevOps / AI Systems Engineer
+experience: 2+ years in production systems
+location: Mumbai, India
+day_job: Kubernetes, Kafka, ArgoCD, HA Postgres (Patroni) @ Research Connect USA
+currently:
+  - building an LLM firewall for prompt-injection detection (v0 regex -> v1 semantic + pgvector)
+  - building an eval harness and guardrail system for LLM pipelines
+  - building an agent memory layer on LangGraph
+  - exploring a self-hosted, Kubernetes-native LLM serving/gateway platform
+philosophy: building in public - a peer learner, not a claimed expert
+open_to:
+  - AI engineering / full-stack roles at early-stage and YC-backed teams
+```
+
+## `$ ls ./projects`
+
+| repo | stack | what it does |
+|---|---|---|
+| `ai-systems-lab` | Go · Python · pgvector | LLM firewall, eval harness, agent memory (LangGraph), guardrails |
+| `production-rag-pipeline` | LangGraph · pgvector · Cohere | HyDE + hybrid search (70% vector / 30% FTS) + reranker + dynamic-K allocator |
+| `finance-research-engine` | LangGraph · Python | 4-agent async fan-out; cut runtime ~4–5 min → ~100s via context engineering |
+| `git-autopilot` | LangGraph · GitHub MCP · LangSmith | HITL coding harness with cross-session memory; 8.5/10 on independent review |
+| `chaos-order-api` | Go · Kubernetes · Prometheus | 7 fault-injection endpoints, blue/green deploys, Argo Rollouts canary |
+| `growthunger` | Node.js · Postgres | GST reconciliation agent for CA firms in India — side project, real users |
+
+## `$ tech stack`
+
+<p><b>Core Languages & Backend</b></p>
+<img src="https://skillicons.dev/icons?i=go,py,ts,js,nodejs,express,fastapi,react,bash&theme=dark" alt="Go, Python, TypeScript, JavaScript, Node.js, Express, FastAPI, React, Bash" />
+
+<p><b>AI / Agents</b></p>
+<sub><code>LANGCHAIN</code> · <code>LANGGRAPH</code> · <code>LANGSMITH</code> · <code>COHERE</code> · <code>PGVECTOR</code></sub>
+<br/>
+<sub>RAG (HyDE + hybrid search) · HITL workflows · multi-agent orchestration · context engineering</sub>
+
+<p><b>Infra / DevOps</b></p>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,kafka,githubactions,jenkins,grafana,prometheus,git&theme=dark" alt="Kubernetes, Docker, Kafka, GitHub Actions, Jenkins, Grafana, Prometheus, Git" />
+<br/>
+<sub>Patroni · PgBouncer · HAProxy (HA Postgres cluster) · ArgoCD</sub>
+
+<p><b>Databases</b></p>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,sqlite&theme=dark" alt="PostgreSQL, Redis, MongoDB, SQLite" />
+<br/>
+<sub>pgvector for embeddings / vector search on Postgres</sub>
+
+---
+
+## `$ git log --stat`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jaguarscodehub&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9" alt="GitHub stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=jaguarscodehub&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" />
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaguarscodehub&bg_color=0D1117&color=3FB950&line=3FB950&point=FFFFFF&area=true&area_color=3FB950&hide_border=true&radius=8&custom_title=Commit%20Activity" alt="commit activity graph" />
+
+</div>
+
+### `$ ./run_snake.sh`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaguarscodehub/jaguarscodehub/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaguarscodehub/jaguarscodehub/output/github-contribution-grid-snake.svg" />
+  <img width="98%" alt="contribution snake" src="https://raw.githubusercontent.com/jaguarscodehub/jaguarscodehub/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<sub>needs a workflow file to generate — see setup notes</sub>
+
+</div>
+
+---
+
+## `$ echo $CONTACT`
+
+Always up for a conversation about RAG pipelines, Kafka/K8s failure modes, or GST reconciliation edge cases. Reach out via the links above.
+
+</div>
