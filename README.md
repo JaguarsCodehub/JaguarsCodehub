@@ -52,31 +52,10 @@ open_to:
 ## `$ git log --stat`
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jaguarscodehub&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9" alt="GitHub stats" />
 <img width="49%" src="https://streak-stats.demolab.com?user=jaguarscodehub&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" />
 
 <br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaguarscodehub&bg_color=0D1117&color=3FB950&line=3FB950&point=FFFFFF&area=true&area_color=3FB950&hide_border=true&radius=8&custom_title=Commit%20Activity" alt="commit activity graph" />
-
 </div>
-
-### `$ ./run_snake.sh`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaguarscodehub/jaguarscodehub/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaguarscodehub/jaguarscodehub/output/github-contribution-grid-snake.svg" />
-  <img width="98%" alt="contribution snake" src="https://raw.githubusercontent.com/jaguarscodehub/jaguarscodehub/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-<sub>needs a workflow file to generate — see setup notes</sub>
-
-</div>
-
----
 
 ## `$ echo $CONTACT`
 
