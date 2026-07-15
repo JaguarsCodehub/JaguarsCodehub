@@ -16,17 +16,6 @@ open_to:
   - AI engineering / full-stack roles at early-stage and YC-backed teams
 ```
 
-## `$ ls ./projects`
-
-| repo | stack | what it does |
-|---|---|---|
-| `ai-systems-lab` | Go · Python · pgvector | LLM firewall, eval harness, agent memory (LangGraph), guardrails |
-| `production-rag-pipeline` | LangGraph · pgvector · Cohere | HyDE + hybrid search (70% vector / 30% FTS) + reranker + dynamic-K allocator |
-| `finance-research-engine` | LangGraph · Python | 4-agent async fan-out; cut runtime ~4–5 min → ~100s via context engineering |
-| `git-autopilot` | LangGraph · GitHub MCP · LangSmith | HITL coding harness with cross-session memory; 8.5/10 on independent review |
-| `chaos-order-api` | Go · Kubernetes · Prometheus | 7 fault-injection endpoints, blue/green deploys, Argo Rollouts canary |
-| `growthunger` | Node.js · Postgres | GST reconciliation agent for CA firms in India — side project, real users |
-
 ## `$ tech stack`
 
 <p><b>Core Languages & Backend</b></p>
@@ -51,7 +40,7 @@ open_to:
 
 ## `$ git log --stat`
 
-<div align="center">
+<div>
 <img width="49%" src="https://streak-stats.demolab.com?user=jaguarscodehub&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" />
 
 <br/>
