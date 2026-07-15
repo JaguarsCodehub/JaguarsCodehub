@@ -29,12 +29,10 @@ open_to:
 <p><b>Infra / DevOps</b></p>
 <img src="https://skillicons.dev/icons?i=kubernetes,docker,kafka,githubactions,jenkins,grafana,prometheus,git&theme=dark" alt="Kubernetes, Docker, Kafka, GitHub Actions, Jenkins, Grafana, Prometheus, Git" />
 <br/>
-<sub>Patroni · PgBouncer · HAProxy (HA Postgres cluster) · ArgoCD</sub>
+<sub>PgBouncer, HAProxy (HA Postgres cluster), ArgoCD</sub>
 
 <p><b>Databases</b></p>
 <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,sqlite&theme=dark" alt="PostgreSQL, Redis, MongoDB, SQLite" />
-<br/>
-<sub>pgvector for embeddings / vector search on Postgres</sub>
 
 ---
 
